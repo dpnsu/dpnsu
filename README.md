@@ -1,12 +1,12 @@
 
 
-[![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://github.com/I-Deepanshu)
+[![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://github.com/dpnsu)
 
 <h1 align="center">Hi there 👋, I'm Deepanshu</h1>
 <h3 align="center">Machine Learning Engineer @ Rechk | Responsible AI & Governance | Building Production-Grade ML Systems</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=I-Deepanshu&label=Profile%20views&color=0e75b6&style=flat" alt="I-Deepanshu" />
+  <img src="https://komarev.com/ghpvc/?username=dpnsu&label=Profile%20views&color=0e75b6&style=flat" alt="dpnsu" />
 </p>
 
 <div align="center">
@@ -64,7 +64,7 @@ I'm a **Machine Learning Engineer at Rechk** and a **B.Tech graduate in Computer
 
 ## 🏗️ Featured Projects
 
-### ⚖️ Responsible AI Audit Framework for Credit Scoring — [Live Demo (HF Space)](https://huggingface.co/spaces/deepanshu)
+### ⚖️ Responsible AI Audit Framework for Credit Scoring — [Live Demo (HF Space)](https://huggingface.co/spaces/JARVIS-JI/responsible-ai-audit)
 **Tech Stack:** Python, Fairlearn, SHAP, XGBoost, Streamlit
 
 - 🏛️ Built an end-to-end **AI governance pipeline** auditing credit-scoring models for **fairness** (disparate impact, equal opportunity, intersectional sex×age), **explainability** (SHAP), robustness, and proxy bias
@@ -72,20 +72,20 @@ I'm a **Machine Learning Engineer at Rechk** and a **B.Tech graduate in Computer
 - 📊 Benchmarked **20 public model families on 30,000 real credit records** (UCI Taiwan) under one governance standard; found model choice alone changes approval outcomes for **22% of applicants**, and a standard bias-mitigation method **widened** the fairness gap on held-out data — evidence that mitigation must be audited, not assumed
 - 🔒 Interactive HF Space: live threshold-to-risk-rating re-derivation, 20-model applicant scoring with **SHAP-based adverse-action notices**; protected attributes excluded from model inputs (**DPDP-aligned**)
 
-### ⚖️ [IPC & BNS Predictor](https://huggingface.co/spaces/deepanshu) - RAG-based Legal AI System
+### ⚖️ [IPC & BNS Predictor](https://huggingface.co/spaces/JARVIS-JI/IPCBNSPredictorRAG-basedLegalAISystem) - RAG-based Legal AI System
 **Tech Stack:** LangChain, FAISS, RAG, Gemini 3.5 Flash, HuggingFace
 
 - 🎯 Built a legal/regulatory AI system (**LangChain + FAISS RAG**) mapping FIRs to **500+ IPC & 350+ BNS** sections at **92% accuracy**, powered by **Gemini 3.5 Flash** for inference
 - ⚡ Reduced manual review time by **60%** and response times by **40%** for law enforcement
 - 🚀 Deployed on **HuggingFace Spaces**; automated legal classification from official government PDFs
 
-### 🥔 [Potato Disease Detection](https://github.com/I-Deepanshu) - Transformer Benchmarking
+### 🥔 [Potato Disease Detection]() - Transformer Benchmarking
 **Tech Stack:** Python, Transformers, Swin, MobileViT, FastAPI, Streamlit
 
 - 🔬 Benchmarked **7 transformer models** on 717 leaf images (5-fold CV): **97% accuracy (Swin)**, **94.86% with lightweight MobileViT (5.6M params)**
 - 🔍 Applied **Grad-CAM** for interpretability; deployed **FastAPI backend + Streamlit UI**
 
-### 🛒 [Amazon ML Challenge 2025](https://github.com/I-Deepanshu) - Multimodal Price Prediction
+### 🛒 [Amazon ML Challenge 2025](https://github.com/dpnsu/AML2025) - Multimodal Price Prediction
 **Tech Stack:** PyTorch, Qwen3, DINOv2
 
 - 🧠 Designed **cross-attention fusion** between **Qwen3 (text)** and **DINOv2 (vision)** encoders
@@ -108,12 +108,12 @@ I'm a **Machine Learning Engineer at Rechk** and a **B.Tech graduate in Computer
 <img align="right" alt="Research" width="300" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 
 1. **📄 Solar Panel Degradation Prediction using Machine Learning: A Comprehensive Approach** 
-   - Status: Preprint | [Read Paper](https://www.researchsquare.com/article/rs-6297947/v1) | [GitHub Repo](https://github.com/I-Deepanshu/Solar-Panel-Degradation-Predictor)
+   - Status: Preprint | [Read Paper](https://www.researchsquare.com/article/rs-6297947/v1) | [GitHub Repo](https://github.com/dpnsu/Solar-Panel-Degradation-Predictor)
    - Machine learning models for predictive maintenance of solar energy systems
 
 2. **⚡ Fuel Cell Degradation Prediction Using Machine Learning Models** 
    - Focus: Proton Exchange Membrane (PEM) Fuel Cell Dataset
-   - Status: Preprint | [Read Paper](https://www.researchgate.net/publication/392034748_Fuel_Cell_Degradation_Prediction_Using_Machine_Learning_Models_A_Study_on_Proton_Exchange_Membrane_PEM_Fuel_Cell_Dataset) | [GitHub Repo](https://github.com/I-Deepanshu/Fuel-cell-degradation-predictor)
+   - Status: Preprint | [Read Paper](https://www.researchgate.net/publication/392034748_Fuel_Cell_Degradation_Prediction_Using_Machine_Learning_Models_A_Study_on_Proton_Exchange_Membrane_PEM_Fuel_Cell_Dataset) | [GitHub Repo](https://github.com/dpnsu/Fuel-cell-degradation-predictor)
    - Advanced ML techniques for fuel cell lifecycle prediction
 
 <br clear="right"/>
@@ -236,9 +236,9 @@ I'm a **Machine Learning Engineer at Rechk** and a **B.Tech graduate in Computer
 
 <div align="center">
   
-![](https://github-readme-stats.vercel.app/api?username=I-Deepanshu&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=I-Deepanshu&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=I-Deepanshu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=dpnsu&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=dpnsu&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dpnsu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
 
@@ -278,6 +278,6 @@ I'm always interested in collaborating on ML/AI projects, research opportunities
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/deepanshu-shimar-704633256)
 [![Medium](https://img.shields.io/badge/Medium-Read_My_Articles-black?style=for-the-badge&logo=medium)](https://medium.com/@deepanshusnpt)
 
-![Profile Views](https://visitcount.itsvg.in/api?id=I-Deepanshu&icon=5&color=12)
+![Profile Views](https://visitcount.itsvg.in/api?id=dpnsu&icon=5&color=12)
 
 </div>
