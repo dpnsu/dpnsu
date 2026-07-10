@@ -3,7 +3,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://github.com/I-Deepanshu)
 
 <h1 align="center">Hi there 👋, I'm Deepanshu</h1>
-<h3 align="center">AI/ML Engineer | Research Enthusiast | Building Production-Grade ML Systems</h3>
+<h3 align="center">Machine Learning Engineer @ Rechk | Responsible AI & Governance | Building Production-Grade ML Systems</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=I-Deepanshu&label=Profile%20views&color=0e75b6&style=flat" alt="I-Deepanshu" />
@@ -25,14 +25,14 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-I'm a **B.Tech Computer Science (AI & ML)** student at UIET with a passion for building production-grade ML systems. I specialize in **deep learning**, **computer vision**, **NLP**, and **MLOps**, with hands-on experience deploying real-world AI solutions.
+I'm a **Machine Learning Engineer at Rechk** and a **B.Tech graduate in Computer Science (AI & ML)** from UIET, MDU, working at the intersection of **AI systems and AI governance**. I build production-grade ML systems (NLP, LLMs, multimodal) with hands-on experience in **Responsible AI** — fairness testing, explainability, model cards, and policy-aligned auditing.
 
-- 🔭 Currently working on **AI-powered cancer detection systems** and **large-scale ML pipelines**
-- 🔬 **Research Intern** at **NIT Warangal** | **ML Intern** at **DRDO**
-- 🌱 Learning advanced **Deep Learning, Neural Networks, Computer Vision & LLMs**
+- 🔭 Currently building a **research-paper intelligence platform** at Rechk (BERT + LLM agents, FastAPI, Docker)
+- ⚖️ Built a **Responsible AI audit framework** for credit-scoring models aligned with **RBI FREE-AI, NITI Aayog RAI & DPDP**
+- 🔬 Prior experience: **Research Intern @ NIT Warangal** | **ML Intern @ DRDO**
 - 🏆 **Microsoft Learn Student Ambassador** | **Top-60 Healthcare AI Hackathon Finalist**
 - 📝 Published researcher with **2 ML research papers** on degradation prediction
-- 💬 Ask me about **PyTorch, TensorFlow, LangChain, RAG Systems, MLOps, Computer Vision**
+- 💬 Ask me about **PyTorch, LangChain, RAG Systems, Fairlearn, SHAP, MLOps, LLMs**
 - 📫 Reach me at **deepanshusnpt@gmail.com**
 - ⚡ Fun fact: **I build production ML systems that solve real-world problems!**
 
@@ -42,39 +42,54 @@ I'm a **B.Tech Computer Science (AI & ML)** student at UIET with a passion for b
 
 ## 💼 Professional Experience
 
+### 🤖 Machine Learning Engineer | Rechk
+**Jan 2026 - Present | Remote**
+- 📄 Built and fine-tuned the core **BERT model** of a research-paper intelligence platform classifying papers into **5 journal-quality tiers (Q1–Q4 + Non-Publishable)** across **1,350+ papers**: **82.4% accuracy, macro F1 0.827, ROC-AUC 0.946**
+- 🏗️ Architected the full pipeline — ingestion → BERT classification → **Gemini 3.5 Flash grammar agent** in parallel with plagiarism detection → merged dashboard with PDF reports
+- 🚀 Deployed as a **FastAPI REST API**, Dockerized for one-command deployment
+
 ### 🔬 Research Intern | NIT Warangal
-**Sep 2025 - Jan 2026**
-- 🌾 Developed end-to-end ML pipeline for **crop output forecasting** across **572 Indian districts**
-- 📊 Deployed **LightGBM model** achieving **R² = 0.906, MAE = 17.65 kg/ha** with **40× faster training**
-- 🛰️ Processed geospatial datasets (NASA POWER, MODIS, SoilGrids) with **35 engineered features**
-- 🎯 Established past crop outputs as dominant predictors through comprehensive feature importance analysis
+**Aug 2025 - Dec 2025 | Remote**
+- 🌾 Forecasted crop yields for **572 Indian districts** using NASA POWER, MODIS & SoilGrids (**35 features**)
+- 📊 Best model: **LightGBM (R² = 0.906, MAE = 17.65 kg/ha)** — **40× faster** than Deep NN
+- 🎯 Identified historical crop yield as dominant predictive feature via **SHAP-based feature importance** for model transparency and accountability
 
 ### 🛡️ ML Intern | Defence Research and Development Organisation (DRDO)
 **June 2025 - Aug 2025 | Delhi, India**
-- 🔍 Built **ML-based detection system** for **biochemical threat analysis** using sensor data
-- 🤖 Implemented **ensemble models** for anomaly detection with **real-time inference** capabilities
-- 🚀 Collaborated with defense research teams on intelligent threat identification systems
-- ✅ Achieved **high-accuracy threat signature identification** for national security applications
+- 🧪 Trained **6 ML classifiers** for **toxic gas classification** on multi-sensor chemical readings
+- 🏆 Best model: **XGBoost (95.02% accuracy, ROC-AUC = 0.9965)**
+- 🚀 Exported models in **.pkl & .onnx** formats for real-time deployment on **drones and embedded field systems**
 
 ---
 
 ## 🏗️ Featured Projects
 
+### ⚖️ Responsible AI Audit Framework for Credit Scoring — [Live Demo (HF Space)](https://huggingface.co/spaces/deepanshu)
+**Tech Stack:** Python, Fairlearn, SHAP, XGBoost, Streamlit
+
+- 🏛️ Built an end-to-end **AI governance pipeline** auditing credit-scoring models for **fairness** (disparate impact, equal opportunity, intersectional sex×age), **explainability** (SHAP), robustness, and proxy bias
+- 📋 Converts findings into a **mechanical risk rating** from config-defined policy thresholds, **auto-generated model cards**, and regulator-readable reports mapped to **RBI FREE-AI** and **NITI Aayog** principles
+- 📊 Benchmarked **20 public model families on 30,000 real credit records** (UCI Taiwan) under one governance standard; found model choice alone changes approval outcomes for **22% of applicants**, and a standard bias-mitigation method **widened** the fairness gap on held-out data — evidence that mitigation must be audited, not assumed
+- 🔒 Interactive HF Space: live threshold-to-risk-rating re-derivation, 20-model applicant scoring with **SHAP-based adverse-action notices**; protected attributes excluded from model inputs (**DPDP-aligned**)
+
 ### ⚖️ [IPC & BNS Predictor](https://huggingface.co/spaces/deepanshu) - RAG-based Legal AI System
-**July 2025 | Tech Stack:** LangChain, FAISS, Llama, Mistral, REST API
+**Tech Stack:** LangChain, FAISS, RAG, Gemini 3.5 Flash, HuggingFace
 
-- 🎯 Engineered production-grade **RAG pipeline** mapping FIRs to **500+ IPC & 350+ BNS** legal sections
-- 📈 Achieved **92% classification accuracy** with automated legal case classification workflow
+- 🎯 Built a legal/regulatory AI system (**LangChain + FAISS RAG**) mapping FIRs to **500+ IPC & 350+ BNS** sections at **92% accuracy**, powered by **Gemini 3.5 Flash** for inference
 - ⚡ Reduced manual review time by **60%** and response times by **40%** for law enforcement
-- 🚀 Deployed REST API with **LLM inference endpoints** processing official government PDF knowledge base
+- 🚀 Deployed on **HuggingFace Spaces**; automated legal classification from official government PDFs
 
-### 📄 [Rechk](https://rechk.in) - AI Research Paper Classifier
-**March 2025 - June 2025 | Tech Stack:** RoBERTa, Sentence-BERT, PyTorch, CNN, Hugging Face
+### 🥔 [Potato Disease Detection](https://github.com/I-Deepanshu) - Transformer Benchmarking
+**Tech Stack:** Python, Transformers, Swin, MobileViT, FastAPI, Streamlit
 
-- 🔬 Designed end-to-end production AI pipeline with **fine-tuned transformers** achieving **86% journal-scope accuracy**
-- 🖼️ Implemented **CNN-based image classification** for document quality assessment (DPI checks)
-- 🤖 Orchestrated **multi-modal PyTorch workflows** for AI-content detection and plagiarism analysis
-- ⚡ Serving **250 PDFs/day** at **< 2 min latency** via optimized Hugging Face Inference Endpoints
+- 🔬 Benchmarked **7 transformer models** on 717 leaf images (5-fold CV): **97% accuracy (Swin)**, **94.86% with lightweight MobileViT (5.6M params)**
+- 🔍 Applied **Grad-CAM** for interpretability; deployed **FastAPI backend + Streamlit UI**
+
+### 🛒 [Amazon ML Challenge 2025](https://github.com/I-Deepanshu) - Multimodal Price Prediction
+**Tech Stack:** PyTorch, Qwen3, DINOv2
+
+- 🧠 Designed **cross-attention fusion** between **Qwen3 (text)** and **DINOv2 (vision)** encoders
+- 🏅 **SMAPE 50–52%, Top 1200 national rank** via 5-fold CV and ensemble stacking
 
 ### 🏥 [Insight Onco](https://synapse-gules.vercel.app/) - AI Healthcare System
 **Jan 2025 - Feb 2025 | Tech Stack:** CNN, PyTorch, Computer Vision, GDPR/HIPAA
@@ -168,8 +183,28 @@ I'm a **B.Tech Computer Science (AI & ML)** student at UIET with a passion for b
 **NLP & Large Language Models**
 - LangChain, LangSmith, FAISS
 - RAG Systems & Vector Databases
-- Fine-tuning LLMs (Llama, Mistral, GPT)
+- Transformers, Sentence-BERT, LLaMA, Gemini 3.5 Flash
 - Prompt Engineering & Model Optimization
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**Responsible AI & Governance**
+- Fairlearn, SHAP, Model Cards
+- Fairness Metrics (Disparate Impact, Equalized Odds)
+- Bias Mitigation & Proxy Bias Auditing
+- AI Policy: RBI FREE-AI, NITI Aayog RAI, DPDP Act, EU AI Act
+
+</td>
+<td width="50%">
+
+**Multimodal & Computer Vision**
+- Vision Transformers (Swin, MobileViT, DINOv2)
+- Cross-Attention Multimodal Fusion
+- Grad-CAM Interpretability
+- Image Classification & Feature Extraction
 
 </td>
 </tr>
@@ -213,6 +248,7 @@ I'm a **B.Tech Computer Science (AI & ML)** student at UIET with a passion for b
 
 - 🎖️ **Microsoft Learn Student Ambassador** - Recognized for technical leadership and community impact
 - 🥈 **Top-60 Finalist** - Predictive AI in Healthcare with FHIR® International Hackathon (2025)
+- 🛒 **Top 1200 National Rank** - Amazon ML Challenge 2025 (Multimodal Price Prediction)
 - 📖 **Published Researcher** - 2 ML research papers (Solar Panel & Fuel Cell Degradation Prediction)
 - 🔬 **Research Experience** - NIT Warangal & DRDO
 
@@ -220,8 +256,8 @@ I'm a **B.Tech Computer Science (AI & ML)** student at UIET with a passion for b
 
 ## 🌱 Currently Working On
 
-- 🏥 **AI-Powered Cancer Detection Systems** - Multi-modal diagnosis for lung, skin, oral, and cervical cancer
-- 🧠 **Advanced Deep Learning** - Neural networks, image segmentation, and computer vision applications
+- 📄 **Research-Paper Intelligence Platform @ Rechk** - BERT classification, LLM agents, plagiarism detection, FastAPI + Docker
+- ⚖️ **Responsible AI & Governance** - Fairness auditing, explainability, and policy-aligned model evaluation (RBI FREE-AI, NITI Aayog, DPDP, EU AI Act)
 - 🚀 **Production ML Systems** - Scalable model deployment and MLOps best practices
 
 ---
