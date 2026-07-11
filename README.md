@@ -1,21 +1,33 @@
-
-
-[![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://github.com/dpnsu)
-
-<h1 align="center">Hi there 👋, I'm Deepanshu</h1>
-<h3 align="center">Machine Learning Engineer @ Rechk | Responsible AI & Governance | Building Production-Grade ML Systems</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dpnsu&label=Profile%20views&color=0e75b6&style=flat" alt="dpnsu" />
-</p>
-
+<!--
+  Profile README for github.com/dpnsu/dpnsu — rendered on the profile page.
+  Widths 370/490 keep the portrait and info card the same height.
+-->
 <div align="center">
-  
-[![Email](https://img.shields.io/badge/Email-deepanshusnpt%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:deepanshusnpt@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/deepanshu-shimar-704633256)
-[![Medium](https://img.shields.io/badge/Medium-Follow-black?style=for-the-badge&logo=medium)](https://medium.com/@deepanshusnpt)
+
+<table>
+<tr>
+<td valign="top"><img src="./avi-ascii.svg" width="370" alt="ASCII portrait" /></td>
+<td valign="top"><img src="./info-card.svg" width="490" alt="Experience, stack, highlights" /></td>
+</tr>
+</table>
+
+## DEEPANSHU
+
+**Debugging Life · Shipping Ideas · Breaking Limits**
+
+<img src="https://komarev.com/ghpvc/?username=dpnsu&label=Profile%20views&color=0e75b6&style=flat" alt="dpnsu" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-deepanshushimar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepanshushimar/)
+[![Medium](https://img.shields.io/badge/Medium-@deepanshusnpt-0d1117?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@deepanshusnpt)
+[![Hugging Face](https://img.shields.io/badge/🤗_Spaces-JARVIS--JI-FFD21E?style=for-the-badge&labelColor=0d1117)](https://huggingface.co/spaces/JARVIS-JI)
+[![Email](https://img.shields.io/badge/Email-deepanshusnpt@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepanshusnpt@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/deepanshusnpt)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0005--7709--7095-green?style=for-the-badge&logo=orcid)](https://orcid.org/0009-0005-7709-7095)
+
+<br>
+
+<!-- animated contribution graph, refreshed daily by the workflow -->
+<img src="./contrib-heatmap.svg" width="860" alt="GitHub contribution graph" />
 
 </div>
 
