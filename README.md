@@ -21,7 +21,7 @@
 [![Medium](https://img.shields.io/badge/Medium-@deepanshusnpt-0d1117?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@deepanshusnpt)
 [![Hugging Face](https://img.shields.io/badge/🤗_Spaces-JARVIS--JI-FFD21E?style=for-the-badge&labelColor=0d1117)](https://huggingface.co/spaces/JARVIS-JI)
 [![Email](https://img.shields.io/badge/Email-deepanshusnpt@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepanshusnpt@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/deepanshusnpt)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/dpnsu/)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0005--7709--7095-green?style=for-the-badge&logo=orcid)](https://orcid.org/0009-0005-7709-7095)
 
 <br>
